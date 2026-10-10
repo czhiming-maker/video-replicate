@@ -1,0 +1,1 @@
+{"x": 0, "y": 380, "w": 470, "h": 900, "bands": [[380, 620], [620, 940], [940, 1120]], "method": "median-flow-per-band, clamped +/-2.5px"}

@@ -1,0 +1,423 @@
+{
+ "W": 720,
+ "H": 1280,
+ "EXT": 380,
+ "girl": [
+  505,
+  1020,
+  120,
+  175
+ ],
+ "canopy_bbox": {
+  "x": 0,
+  "y": 63,
+  "w": 688,
+  "h": 900
+ },
+ "erodible_bbox": {
+  "x": 0,
+  "y": 67,
+  "w": 684,
+  "h": 892
+ },
+ "sprites_leaf": [
+  {
+   "file": "sprites/leaf_00.png",
+   "w": 51,
+   "h": 55,
+   "area": 684,
+   "strict": 0.868
+  },
+  {
+   "file": "sprites/leaf_01.png",
+   "w": 46,
+   "h": 36,
+   "area": 718,
+   "strict": 0.927
+  },
+  {
+   "file": "sprites/leaf_02.png",
+   "w": 68,
+   "h": 40,
+   "area": 461,
+   "strict": 0.86
+  },
+  {
+   "file": "sprites/leaf_03.png",
+   "w": 34,
+   "h": 39,
+   "area": 368,
+   "strict": 0.892
+  },
+  {
+   "file": "sprites/leaf_04.png",
+   "w": 32,
+   "h": 35,
+   "area": 359,
+   "strict": 0.915
+  },
+  {
+   "file": "sprites/leaf_05.png",
+   "w": 29,
+   "h": 25,
+   "area": 300,
+   "strict": 0.898
+  },
+  {
+   "file": "sprites/leaf_06.png",
+   "w": 18,
+   "h": 26,
+   "area": 331,
+   "strict": 0.947
+  },
+  {
+   "file": "sprites/leaf_07.png",
+   "w": 27,
+   "h": 23,
+   "area": 237,
+   "strict": 0.89
+  },
+  {
+   "file": "sprites/leaf_08.png",
+   "w": 24,
+   "h": 28,
+   "area": 219,
+   "strict": 0.91
+  },
+  {
+   "file": "sprites/leaf_09.png",
+   "w": 25,
+   "h": 22,
+   "area": 173,
+   "strict": 0.855
+  },
+  {
+   "file": "sprites/leaf_10.png",
+   "w": 24,
+   "h": 19,
+   "area": 193,
+   "strict": 0.915
+  },
+  {
+   "file": "sprites/leaf_11.png",
+   "w": 21,
+   "h": 19,
+   "area": 187,
+   "strict": 0.912
+  },
+  {
+   "file": "sprites/leaf_12.png",
+   "w": 14,
+   "h": 20,
+   "area": 174,
+   "strict": 0.93
+  },
+  {
+   "file": "sprites/leaf_13.png",
+   "w": 16,
+   "h": 22,
+   "area": 130,
+   "strict": 0.875
+  },
+  {
+   "file": "sprites/leaf_14.png",
+   "w": 18,
+   "h": 18,
+   "area": 123,
+   "strict": 0.872
+  },
+  {
+   "file": "sprites/leaf_15.png",
+   "w": 17,
+   "h": 17,
+   "area": 118,
+   "strict": 0.892
+  },
+  {
+   "file": "sprites/leaf_16.png",
+   "w": 17,
+   "h": 18,
+   "area": 102,
+   "strict": 0.9
+  },
+  {
+   "file": "sprites/leaf_17.png",
+   "w": 15,
+   "h": 17,
+   "area": 130,
+   "strict": 0.931
+  },
+  {
+   "file": "sprites/leaf_18.png",
+   "w": 19,
+   "h": 14,
+   "area": 94,
+   "strict": 0.849
+  },
+  {
+   "file": "sprites/leaf_19.png",
+   "w": 18,
+   "h": 14,
+   "area": 106,
+   "strict": 0.917
+  },
+  {
+   "file": "sprites/leaf_20.png",
+   "w": 14,
+   "h": 15,
+   "area": 93,
+   "strict": 0.951
+  },
+  {
+   "file": "sprites/leaf_21.png",
+   "w": 14,
+   "h": 15,
+   "area": 96,
+   "strict": 0.982
+  },
+  {
+   "file": "sprites/leaf_22.png",
+   "w": 20,
+   "h": 15,
+   "area": 93,
+   "strict": 1.0
+  },
+  {
+   "file": "sprites/leaf_23.png",
+   "w": 11,
+   "h": 11,
+   "area": 58,
+   "strict": 0.98
+  },
+  {
+   "file": "sprites/leaf_24.png",
+   "w": 10,
+   "h": 12,
+   "area": 32,
+   "strict": 0.886
+  },
+  {
+   "file": "sprites/leaf_25.png",
+   "w": 11,
+   "h": 11,
+   "area": 58,
+   "strict": 0.99
+  },
+  {
+   "file": "sprites/lx_00.png",
+   "w": 51,
+   "h": 55,
+   "area": 684,
+   "strict": 0.868
+  },
+  {
+   "file": "sprites/lx_01.png",
+   "w": 46,
+   "h": 36,
+   "area": 718,
+   "strict": 0.927
+  },
+  {
+   "file": "sprites/lx_02.png",
+   "w": 68,
+   "h": 40,
+   "area": 461,
+   "strict": 0.86
+  },
+  {
+   "file": "sprites/lx_03.png",
+   "w": 34,
+   "h": 39,
+   "area": 368,
+   "strict": 0.892
+  },
+  {
+   "file": "sprites/lx_04.png",
+   "w": 32,
+   "h": 35,
+   "area": 359,
+   "strict": 0.915
+  },
+  {
+   "file": "sprites/lx_05.png",
+   "w": 29,
+   "h": 25,
+   "area": 300,
+   "strict": 0.898
+  },
+  {
+   "file": "sprites/lx_06.png",
+   "w": 18,
+   "h": 26,
+   "area": 331,
+   "strict": 0.947
+  },
+  {
+   "file": "sprites/lx_07.png",
+   "w": 27,
+   "h": 23,
+   "area": 237,
+   "strict": 0.89
+  },
+  {
+   "file": "sprites/lx_08.png",
+   "w": 24,
+   "h": 28,
+   "area": 219,
+   "strict": 0.91
+  },
+  {
+   "file": "sprites/lx_09.png",
+   "w": 25,
+   "h": 22,
+   "area": 173,
+   "strict": 0.855
+  },
+  {
+   "file": "sprites/lx_10.png",
+   "w": 24,
+   "h": 19,
+   "area": 193,
+   "strict": 0.915
+  },
+  {
+   "file": "sprites/lx_11.png",
+   "w": 21,
+   "h": 19,
+   "area": 187,
+   "strict": 0.912
+  }
+ ],
+ "sprites_canopy": [
+  {
+   "file": "sprites/cl_00.png",
+   "w": 44,
+   "h": 44
+  },
+  {
+   "file": "sprites/cl_01.png",
+   "w": 58,
+   "h": 58
+  },
+  {
+   "file": "sprites/cl_02.png",
+   "w": 64,
+   "h": 64
+  },
+  {
+   "file": "sprites/cl_03.png",
+   "w": 58,
+   "h": 58
+  },
+  {
+   "file": "sprites/cl_04.png",
+   "w": 56,
+   "h": 56
+  },
+  {
+   "file": "sprites/cl_05.png",
+   "w": 60,
+   "h": 60
+  },
+  {
+   "file": "sprites/cl_06.png",
+   "w": 58,
+   "h": 58
+  },
+  {
+   "file": "sprites/cl_07.png",
+   "w": 76,
+   "h": 76
+  },
+  {
+   "file": "sprites/cl_08.png",
+   "w": 72,
+   "h": 72
+  },
+  {
+   "file": "sprites/cl_09.png",
+   "w": 76,
+   "h": 76
+  },
+  {
+   "file": "sprites/cl_10.png",
+   "w": 78,
+   "h": 78
+  },
+  {
+   "file": "sprites/cl_11.png",
+   "w": 40,
+   "h": 40
+  },
+  {
+   "file": "sprites/cl_12.png",
+   "w": 46,
+   "h": 46
+  },
+  {
+   "file": "sprites/cl_13.png",
+   "w": 84,
+   "h": 84
+  },
+  {
+   "file": "sprites/cl_14.png",
+   "w": 86,
+   "h": 86
+  },
+  {
+   "file": "sprites/cl_15.png",
+   "w": 76,
+   "h": 76
+  },
+  {
+   "file": "sprites/cl_16.png",
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "sprites/cl_17.png",
+   "w": 54,
+   "h": 54
+  },
+  {
+   "file": "sprites/cl_18.png",
+   "w": 70,
+   "h": 70
+  },
+  {
+   "file": "sprites/cl_19.png",
+   "w": 60,
+   "h": 60
+  },
+  {
+   "file": "sprites/cl_20.png",
+   "w": 76,
+   "h": 76
+  },
+  {
+   "file": "sprites/cl_21.png",
+   "w": 70,
+   "h": 70
+  },
+  {
+   "file": "sprites/cl_22.png",
+   "w": 58,
+   "h": 58
+  },
+  {
+   "file": "sprites/cl_23.png",
+   "w": 80,
+   "h": 80
+  },
+  {
+   "file": "sprites/cl_24.png",
+   "w": 40,
+   "h": 40
+  },
+  {
+   "file": "sprites/cl_25.png",
+   "w": 66,
+   "h": 66
+  }
+ ]
+}

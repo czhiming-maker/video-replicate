@@ -1,0 +1,20 @@
+{
+  "name": "autumn-pin-remotion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render Autumn out/autumn.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.407",
+    "puppeteer-core": "^25.13.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "remotion": "4.0.407"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.16",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,21 @@
+.venv/
+node_modules/
+.DS_Store
+work/frames/
+work/dbg_*
+work/mine/
+out/
+deliverables/
+*.pyc
+.superpowers/
+work/girl_probe/
+.sam2/
+work/sam2_masks/
+
+# 历史 QA 大图（公开树不携带，本地保留）
+work/side_by_side.mp4
+work/prev_vs_new.png
+work/final_sbs.png
+work/three_versions.png
+work/plate_prev.png
+work/final_detail_1to1.png
